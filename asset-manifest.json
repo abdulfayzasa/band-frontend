@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/band-frontend/static/css/main.a617e044.chunk.css",
-    "main.js": "/band-frontend/static/js/main.e15dd4c2.chunk.js",
-    "main.js.map": "/band-frontend/static/js/main.e15dd4c2.chunk.js.map",
+    "main.css": "/band-frontend/static/css/main.af8b92a3.chunk.css",
+    "main.js": "/band-frontend/static/js/main.471961c0.chunk.js",
+    "main.js.map": "/band-frontend/static/js/main.471961c0.chunk.js.map",
     "runtime-main.js": "/band-frontend/static/js/runtime-main.d2932d13.js",
     "runtime-main.js.map": "/band-frontend/static/js/runtime-main.d2932d13.js.map",
     "static/js/2.9732d79f.chunk.js": "/band-frontend/static/js/2.9732d79f.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.8e1f62a1.chunk.js": "/band-frontend/static/js/3.8e1f62a1.chunk.js",
     "static/js/3.8e1f62a1.chunk.js.map": "/band-frontend/static/js/3.8e1f62a1.chunk.js.map",
     "index.html": "/band-frontend/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/band-frontend/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.af8b92a3.chunk.css.map": "/band-frontend/static/css/main.af8b92a3.chunk.css.map",
     "static/js/2.9732d79f.chunk.js.LICENSE.txt": "/band-frontend/static/js/2.9732d79f.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/band-frontend/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d2932d13.js",
     "static/js/2.9732d79f.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.e15dd4c2.chunk.js"
+    "static/css/main.af8b92a3.chunk.css",
+    "static/js/main.471961c0.chunk.js"
   ]
 }
